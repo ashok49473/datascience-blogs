@@ -1,0 +1,4 @@
+git+https://github.com/deepset-ai/haystack.git
+requests
+streamlit
+pdftotext
